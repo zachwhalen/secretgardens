@@ -4,13 +4,8 @@
 use Lingua::Ispell qw( spellcheck ); # import the function
 use Data::Dumper;
 
+# ... rewriting this ugh.
 
-#print Dumper($result);
-
-# print $speller->check($test);
-
-# print "test: $test\n";
-# # exit;
 
 #open READ, "10-million-combos.txt" or die "Whatever";
 
